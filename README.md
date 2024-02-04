@@ -10,7 +10,7 @@ This project employs a dataset from Kaggle that has a variety of animals, featur
 
 The entire project is within the .ipynb file in this repository. As a result, you must be able to run Jupyter Notebooks as well as install and import the necessary libraries/functions as detailed in the file.
 
-**Breakdown**
+**Breakdown:**
 
 Contextualization 
 
