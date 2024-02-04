@@ -25,3 +25,5 @@ Confusion Matrix Visualization
 Animal Classifier Tool
 
 Reflection and Real-World Relevance
+
+*Thank you for viewing!*
